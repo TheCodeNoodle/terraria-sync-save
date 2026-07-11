@@ -1,8 +1,8 @@
 import os
 
-SERVER_URL = "https://api.palworldsyncsaveterraria.shop"
-USER = "test"
-TOKEN = "bpkan567mgyfrv842owc3hes10xlqz9i"
+SERVER_URL = #"https://api.palworldsyncsaveterraria.shop"
+USER = #"test"
+TOKEN = #"token"
 POLL_INTERVAL_SECONDS = 1
 STABLE_CHECKS_REQUIRED = 2
 
